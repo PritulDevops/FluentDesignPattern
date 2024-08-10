@@ -1,0 +1,4 @@
+tests\HomePageTests.class
+tests\RegistrationTests.class
+Base\BaseTest.class
+tests\FilterTests.class

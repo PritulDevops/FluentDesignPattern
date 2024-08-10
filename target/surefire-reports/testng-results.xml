@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-09T15:18:45 IST" name="Surefire suite" finished-at="2024-08-09T15:19:41 IST" duration-ms="56445">
+    <groups>
+    </groups>
+    <test started-at="2024-08-09T15:18:45 IST" name="Surefire test" finished-at="2024-08-09T15:19:41 IST" duration-ms="56445">
+      <class name="tests.RegistrationTests">
+        <test-method is-config="true" signature="init()[pri:0, instance:tests.RegistrationTests@75329a49]" started-at="2024-08-09T15:19:19 IST" name="init" finished-at="2024-08-09T15:19:21 IST" duration-ms="2599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testCountryDropdown()[pri:0, instance:tests.RegistrationTests@75329a49]" started-at="2024-08-09T15:19:21 IST" name="testCountryDropdown" finished-at="2024-08-09T15:19:23 IST" duration-ms="1889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCountryDropdown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.RegistrationTests@75329a49]" started-at="2024-08-09T15:19:23 IST" name="tearDown" finished-at="2024-08-09T15:19:24 IST" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:tests.RegistrationTests@75329a49]" started-at="2024-08-09T15:19:24 IST" name="init" finished-at="2024-08-09T15:19:26 IST" duration-ms="2901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testDobError()[pri:0, instance:tests.RegistrationTests@75329a49]" started-at="2024-08-09T15:19:26 IST" name="testDobError" finished-at="2024-08-09T15:19:27 IST" duration-ms="941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDobError -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.RegistrationTests@75329a49]" started-at="2024-08-09T15:19:27 IST" name="tearDown" finished-at="2024-08-09T15:19:28 IST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:tests.RegistrationTests@75329a49]" started-at="2024-08-09T15:19:28 IST" name="init" finished-at="2024-08-09T15:19:29 IST" duration-ms="1848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testPhoneValidations()[pri:0, instance:tests.RegistrationTests@75329a49]" started-at="2024-08-09T15:19:29 IST" name="testPhoneValidations" finished-at="2024-08-09T15:19:41 IST" duration-ms="11678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPhoneValidations -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.RegistrationTests@75329a49]" started-at="2024-08-09T15:19:41 IST" name="tearDown" finished-at="2024-08-09T15:19:41 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.RegistrationTests -->
+      <class name="tests.FilterTests">
+        <test-method is-config="true" signature="init()[pri:0, instance:tests.FilterTests@5e316c74]" started-at="2024-08-09T15:18:45 IST" name="init" finished-at="2024-08-09T15:18:50 IST" duration-ms="5017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testFilterCategoryResults()[pri:0, instance:tests.FilterTests@5e316c74]" started-at="2024-08-09T15:18:50 IST" name="testFilterCategoryResults" finished-at="2024-08-09T15:18:53 IST" duration-ms="2965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilterCategoryResults -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FilterTests@5e316c74]" started-at="2024-08-09T15:18:53 IST" name="tearDown" finished-at="2024-08-09T15:18:53 IST" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:tests.FilterTests@5e316c74]" started-at="2024-08-09T15:18:53 IST" name="init" finished-at="2024-08-09T15:18:56 IST" duration-ms="2691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testNoFilterResults()[pri:0, instance:tests.FilterTests@5e316c74]" started-at="2024-08-09T15:18:56 IST" name="testNoFilterResults" finished-at="2024-08-09T15:18:59 IST" duration-ms="2846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNoFilterResults -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FilterTests@5e316c74]" started-at="2024-08-09T15:18:59 IST" name="tearDown" finished-at="2024-08-09T15:18:59 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:tests.FilterTests@5e316c74]" started-at="2024-08-09T15:18:59 IST" name="init" finished-at="2024-08-09T15:19:02 IST" duration-ms="2800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testSortNames()[pri:0, instance:tests.FilterTests@5e316c74]" started-at="2024-08-09T15:19:02 IST" name="testSortNames" finished-at="2024-08-09T15:19:04 IST" duration-ms="1964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSortNames -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FilterTests@5e316c74]" started-at="2024-08-09T15:19:04 IST" name="tearDown" finished-at="2024-08-09T15:19:04 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:tests.FilterTests@5e316c74]" started-at="2024-08-09T15:19:04 IST" name="init" finished-at="2024-08-09T15:19:06 IST" duration-ms="1785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testSortPrices()[pri:0, instance:tests.FilterTests@5e316c74]" started-at="2024-08-09T15:19:06 IST" name="testSortPrices" finished-at="2024-08-09T15:19:09 IST" duration-ms="2780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSortPrices -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FilterTests@5e316c74]" started-at="2024-08-09T15:19:09 IST" name="tearDown" finished-at="2024-08-09T15:19:09 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.FilterTests -->
+      <class name="tests.HomePageTests">
+        <test-method is-config="true" signature="init()[pri:0, instance:tests.HomePageTests@6d2a209c]" started-at="2024-08-09T15:19:09 IST" name="init" finished-at="2024-08-09T15:19:11 IST" duration-ms="1867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testCategories()[pri:0, instance:tests.HomePageTests@6d2a209c]" started-at="2024-08-09T15:19:11 IST" name="testCategories" finished-at="2024-08-09T15:19:12 IST" duration-ms="1237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCategories -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTests@6d2a209c]" started-at="2024-08-09T15:19:12 IST" name="tearDown" finished-at="2024-08-09T15:19:12 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:tests.HomePageTests@6d2a209c]" started-at="2024-08-09T15:19:12 IST" name="init" finished-at="2024-08-09T15:19:15 IST" duration-ms="2597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testFooter()[pri:0, instance:tests.HomePageTests@6d2a209c]" started-at="2024-08-09T15:19:15 IST" name="testFooter" finished-at="2024-08-09T15:19:15 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFooter -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTests@6d2a209c]" started-at="2024-08-09T15:19:15 IST" name="tearDown" finished-at="2024-08-09T15:19:15 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:tests.HomePageTests@6d2a209c]" started-at="2024-08-09T15:19:15 IST" name="init" finished-at="2024-08-09T15:19:18 IST" duration-ms="2759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testHeader()[pri:0, instance:tests.HomePageTests@6d2a209c]" started-at="2024-08-09T15:19:18 IST" name="testHeader" finished-at="2024-08-09T15:19:18 IST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHeader -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTests@6d2a209c]" started-at="2024-08-09T15:19:18 IST" name="tearDown" finished-at="2024-08-09T15:19:19 IST" duration-ms="376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.HomePageTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

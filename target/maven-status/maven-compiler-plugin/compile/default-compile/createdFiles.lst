@@ -1,0 +1,8 @@
+utilities\PropertyHandler.class
+Base\DriverManager.class
+pages\Homepage.class
+pages\CartPage.class
+pages\RegistrationPage.class
+Base\BasePage.class
+pages\FilterSideBar.class
+pages\ProductDetailPage.class
